@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Andada+Pro:wght@400;500;600;700;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Exo:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Salsa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body {
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+ 
+}
+
+
+#root {
+  background-image: linear-gradient(to right bottom, #b9c6ee, #c8d0f1, #d6daf4, #e4e5f7, #f0f0fa, #f1f0f7, #f2f0f5, #f2f0f3, #eae5e9, #e2dade, #dbcfd3, #d4c4c6);
+  height: auto;
+}
+
+h6{
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+

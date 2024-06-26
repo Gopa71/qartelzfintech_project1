@@ -1,0 +1,11 @@
+.footer1 {
+   
+    border-top-right-radius: 50%;
+    border-top-left-radius: 80px;
+
+
+    background-image: linear-gradient(to right bottom, #b9c6ee, #c8d0f1, #d6daf4, #e4e5f7, #f0f0fa, #f1f0f7, #f2f0f5, #f2f0f3, #eae5e9, #e2dade, #dbcfd3, #d4c4c6);
+}
+ a{
+    color: black;
+ }  
