@@ -2956,7 +2956,7 @@ function WctlAssmt() {
         <div className="container-fluid border-1 border-black mt-3">
           <div className="row">
             <div className="col-lg-4 border-end border-black d-flex justify-content-center">
-              <h5>COMPARATIVE RATIOS</h5>
+              <h5>WC/TL ASSESSMENT</h5>
             </div>
             <div className="col-lg-8 border-start d-flex justify-content-center">
               <h5>For the year ended/ending (Rs. in Lacs)</h5>

@@ -3001,7 +3001,7 @@ const [isFixed, setIsFixed] = useState(false);
       <div className="container-fluid border-1 border-black mt-3">
         <div className="row">
           <div className="col-lg-4 border-end border-black d-flex justify-content-center">
-            <h6>COMPARATIVE RATIOS</h6>
+            <h6>FOUND FLOW DETAILED</h6>
           </div>
           <div className="col-lg-8 border-start d-flex justify-content-center">
             <h6>For the year ended/ending (Rs. in Lacs)</h6>
